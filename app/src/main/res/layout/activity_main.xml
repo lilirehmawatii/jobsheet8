@@ -9,7 +9,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <TextView
+ <TextView
         android:layout_width="match_parent"
         android:layout_height="70dp"
         android:layout_marginBottom="20dp"
@@ -17,7 +17,8 @@
         android:text="ACTIVITY 1"
         android:textAlignment="center"
         android:textColor="@color/white"
-        android:textSize="30dp" />
+        android:textSize="30dp"
+        android:gravity="center"/>
 
     <TextView
         android:layout_width="match_parent"
@@ -27,7 +28,8 @@
         android:text="LILI REHMAWATI"
         android:textAlignment="center"
         android:textColor="@color/white"
-        android:textSize="30dp" />
+        android:textSize="30dp"
+        android:gravity="center"/>
 
 
         <ImageView
